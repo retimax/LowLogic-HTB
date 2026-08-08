@@ -56,4 +56,4 @@ for i in range(0, len(result), 8):
     flag += chr(int(result[i:i+8], 2))
 print(flag)
 ```
-> [!note] Este es mi primer ejercicio de *hardware hacking*, so es posible que utilice términos incorrectos durante la redacción.
+> [!NOTE] Este es mi primer ejercicio de *hardware hacking*, so es posible que utilice términos incorrectos durante la redacción.
